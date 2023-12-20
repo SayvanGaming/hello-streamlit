@@ -24,7 +24,7 @@ def run():
         page_icon="👋",
     )
 
-    st.write("# Welcome to Streamlit! My name is Ivan and i'm from Spain👋")
+    st.write("#My name is Ivan and i'm from Spain👋 I love Marie <3")
 
 
 
